@@ -1,3 +1,4 @@
+-- drop database dgu;
 show databases;
 create database dgu;
 show databases;
@@ -160,6 +161,3 @@ select * from enrollment;
 
 drop table enrollment;
 show tables;
-
-drop database dgu;
-show databases;
